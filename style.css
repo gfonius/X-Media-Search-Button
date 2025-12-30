@@ -1,0 +1,15 @@
+/* X Media Search Link スタイル */
+
+.x-media-search-link {
+  display: block;
+  color: rgb(113, 118, 123);
+  font-size: 15px;
+  text-decoration: none;
+  margin-top: 4px;
+  padding-left: 16px;
+  padding-bottom: 16px;
+}
+
+.x-media-search-link:hover {
+  text-decoration: underline;
+}
